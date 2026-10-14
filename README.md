@@ -259,9 +259,7 @@ The project followed these major stages:
 
 ## 13. Project Structure
 
-The project is organized into folders for datasets, notebooks, SQL queries, dashboard files, and supporting materials.
-
-Suggested structure:
+The repository contains the dataset, analysis notebook, SQL queries, dashboard, and supporting screenshots.
 
 ```text
 Customer-Churn-Revenue-Analytics/
@@ -276,24 +274,18 @@ Customer-Churn-Revenue-Analytics/
 |
 |-- images/
 |   |-- dashboard_overview.png
-|   |-- customer_revenue_analysis.png
+|   |-- revenue_analysis.png
 |   `-- business_recommendations.png
 |
 |-- notebooks/
 |   `-- customer_churn_analysis.ipynb
 |
-|-- powerbi/
-|   `-- Customer_Churn_Revenue_Analytics.pbix
-|
-|-- reports/
-|
 |-- sql/
 |   `-- customer_churn_analysis.sql
 |
+|-- Customer_Churn_Revenue_Analytics.pbix
 `-- README.md
 ```
-
-**Note:** This is a suggested structure. Update the paths and filenames to match the actual files and folders in your project. The dashboard screenshots can be added to the `images` folder when available.
 
 ## 14. Limitations
 
